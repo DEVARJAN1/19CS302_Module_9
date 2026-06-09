@@ -3,7 +3,7 @@
 ## AIM:
 To write a C Write a functions to perform enqueue, dequeue, display, peek in Queue using Array.
 
-## Algorithm:
+## Algorithm: 
 1. Start. 
 2. Define a variables. 
 3. Write a functions to perform enqueue,dequeue ,display,peek in Queue using array. 
