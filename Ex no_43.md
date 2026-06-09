@@ -7,7 +7,7 @@ To Write a function to display queue elements using array.
 1. Start. 
 2. Define a variables. 
 3. Write a function to display queue elements using array. 
-4. Read the value using scanf. 
+4. Read the value using scanf.  
 5. Ask the user to make an input. 
 6. Print out the answer. 
 7. End.
