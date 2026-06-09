@@ -7,7 +7,7 @@ To write a C program that implements a queue using an array, and performs insert
 1. Start. 
 2. Define a variables. 
 3. Write a functions to traverse the linked list and display it in the following format. 
-4. Read the value using scanf. 
+4. Read the value using scanf.  
 5. Ask the user to make an input. 
 6. Print out the answer. 
 7. End
