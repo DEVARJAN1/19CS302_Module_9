@@ -3,7 +3,7 @@
 ## AIM:
 To write a fuctions to perform push,pop,display,peek in stack using array.
 
-## Algorithm:
+## Algorithm: 
 1. Start. 
 2. Define a variables. 
 3. Write a functions to perform push,pop,display,peek in stack using array. 
